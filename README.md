@@ -63,7 +63,8 @@ El sistema integra cuatro variables ambientales (nivel de agua, temperatura, hum
 ## Autores
 
 - Santiago Escobar
-- [Nombre del segundo integrante]
+- [Nombre del segundo integrante]b
+- 
 
 ---
 
