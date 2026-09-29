@@ -12,7 +12,7 @@ El sistema integra cuatro variables ambientales (nivel de agua, temperatura, hum
 
 ---
 
-## Objetivos Técnicos
+## Objetivos Técnicos Challenge #1
 
 - Diseñar un sistema embebido de monitoreo hidrometeorológico de bajo costo.
 - Integrar sensores de nivel de agua y variables meteorológicas en una sola plataforma.
@@ -20,7 +20,6 @@ El sistema integra cuatro variables ambientales (nivel de agua, temperatura, hum
 - Generar alertas escalonadas por severidad mediante notificación in situ (visual y sonora).
 - Operar de forma autónoma sin redes de comunicación convencionales.
 - Documentar el proceso de diseño, desarrollo, implementación y validación.
-
 ---
 
 ## Tecnologías y Componentes Utilizados
